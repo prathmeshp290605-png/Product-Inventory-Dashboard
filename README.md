@@ -42,7 +42,21 @@ Add screenshots of your running application in this section.
 ### Inventory Analytics
 ![Inventory Analytics](screenshots/inventory-analytics.png)
 -->
+## 📸 Application Screenshots
 
+### Product Inventory Dashboard
+
+The dashboard provides an overview of inventory performance, including total products, stock units, inventory value, stock alerts, and product management tools.
+
+![Product Inventory Dashboard](screenshots/dashboard.png)
+
+**Dashboard features shown:**
+- Inventory summary cards
+- Add New Product form
+- Product list with price, quantity, and stock status
+- Search, category filter, and sorting
+- Edit and Delete actions
+- CSV export functionality
 ## ⚙️ Installation and Setup
 
 ### Prerequisites
