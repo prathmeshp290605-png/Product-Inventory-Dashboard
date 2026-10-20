@@ -26,22 +26,9 @@ An interactive web-based dashboard for managing products, monitoring stock level
 | JSON | File-based product data storage |
 | Git & GitHub | Version control and project hosting |
 
-## 📸 Screenshots
 
-Add screenshots of your running application in this section.
 
-<!-- Save your screenshots in a folder named screenshots and uncomment the examples below. -->
 
-<!--
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Product Management
-![Product Management](screenshots/product-management.png)
-
-### Inventory Analytics
-![Inventory Analytics](screenshots/inventory-analytics.png)
--->
 ## 📸 Application Screenshots
 
 ### Product Inventory Dashboard
