@@ -34,7 +34,7 @@ An interactive web-based dashboard for managing products, monitoring stock level
 ### Product Inventory Dashboard
 
 The dashboard provides an overview of inventory performance, including total products, stock units, inventory value, stock alerts, and product management tools.
-![Product Inventory Dashboard](screenshots/dashboard.png)
+![Product Inventory Dashboard](screenshotsdashboard.png)
 
 **Dashboard features shown:**
 - Inventory summary cards
