@@ -133,12 +133,6 @@ Product-Inventory-Dashboard/
 
 The goal of this project is to simplify inventory management by combining product operations, stock monitoring, and analytics in a single dashboard.
 
-## 👨‍💻 Author
-
-**Prathmesh Patil**
-
-- GitHub: [@prathmeshp290605-png](https://github.com/prathmeshp290605-png)
-- Project Repository: [Product-Inventory-Dashboard](https://github.com/prathmeshp290605-png/Product-Inventory-Dashboard)
 
 ---
 
